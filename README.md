@@ -1,2 +1,2 @@
 # captcha-breaker
-A CNN-based OCR model to break text-captchas
+- A CNN-based OCR model to break text-captchas
